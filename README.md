@@ -335,7 +335,7 @@ while maintaining engineering quality and ownership of the final implementation.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/himanshu-malik1995">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
